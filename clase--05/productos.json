@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Arroz",
+    "description": "Marolio",
+    "price": 200,
+    "img": "sin imagen",
+    "code": "abc123",
+    "stock": 25
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "TinkiWinki",
+    "apellido": "Teletubbie",
+    "edad": 50
+  },
+  {
+    "nombre": "Dipsi",
+    "apellido": "Teletubbie",
+    "edad": 55
+  },
+  {
+    "nombre": "Lala",
+    "apellido": "Teletubbie",
+    "edad": 48
+  },
+  {
+    "nombre": "Po",
+    "apellido": "Teletubbie",
+    "edad": 59
+  },
+  {
+    "nombre": "Bebe Sol",
+    "apellido": "Teletubbie",
+    "edad": 33
+  }
+]
