@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Arroz",
+    "description": "Marolio",
+    "price": 20,
+    "img": "sin imagen",
+    "code": "abc555",
+    "stock": 33
+  },
+  {
+    "id": 2,
+    "title": "Azúcar",
+    "description": "Ledesma",
+    "price": 150,
+    "img": "sin imagen",
+    "code": "def456",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "Harina",
+    "description": "Blanco",
+    "price": 180,
+    "img": "sin imagen",
+    "code": "ghi789",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "title": "Aceite",
+    "description": "Saboroso",
+    "price": 350,
+    "img": "sin imagen",
+    "code": "jkl012",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Leche",
+    "description": "La Serenísima",
+    "price": 120,
+    "img": "sin imagen",
+    "code": "mno345",
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "title": "Galletitas",
+    "description": "Tend to be sweet",
+    "price": 250,
+    "img": "sin imagen",
+    "code": "pqr678",
+    "stock": 22
+  },
+  {
+    "id": 7,
+    "title": "Tomates",
+    "description": "En bolsa",
+    "price": 90,
+    "img": "sin imagen",
+    "code": "stu901",
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "title": "Cereal",
+    "description": "Nestlé",
+    "price": 400,
+    "img": "sin imagen",
+    "code": "vwx234",
+    "stock": 18
+  },
+  {
+    "id": 9,
+    "title": "Pasta",
+    "description": "Migliore",
+    "price": 170,
+    "img": "sin imagen",
+    "code": "yz1234",
+    "stock": 28
+  },
+  {
+    "id": 10,
+    "title": "Jugo",
+    "description": "Del Valle",
+    "price": 220,
+    "img": "sin imagen",
+    "code": "abc567",
+    "stock": 33
+  },
+  {
+    "id": 11,
+    "title": "Helado",
+    "description": "De Menta granizada",
+    "price": 5000,
+    "img": "sin imagen",
+    "code": "aaa558",
+    "stock": 300
+  }
+]

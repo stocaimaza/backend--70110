@@ -1,0 +1,17 @@
+<h1 class="text-center">E-Commerce</h1>
+
+<p>nombre: {{usuario.nombre}} </p>
+<p>apellido: {{usuario.apellido}} </p>
+
+{{!-- Usamos condicionales --}}
+
+{{#if usuario.mayorEdad}}
+
+    <p> Es mayor de edad, puede ingresar </p>
+
+{{else}}
+
+    <p> Es menor de edad, vete y vuelve cuando seas grande y tengas dinero </p>
+
+{{/if}} 
+
