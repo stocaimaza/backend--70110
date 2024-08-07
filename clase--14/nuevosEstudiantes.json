@@ -1,0 +1,178 @@
+[
+    {
+        "nombre": "Pedro",
+        "apellido": "Gomez",
+        "email": "pedro@gomez.com",
+        "genero": "M",
+        "promedio": 9,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martinez",
+        "email": "ana@martinez.com",
+        "genero": "F",
+        "promedio": 8,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Lopez",
+        "email": "luis@lopez.com",
+        "genero": "M",
+        "promedio": 7,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Maria",
+        "apellido": "Fernandez",
+        "email": "maria@fernandez.com",
+        "genero": "F",
+        "promedio": 9,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "email": "juan@perez.com",
+        "genero": "M",
+        "promedio": 8,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "García",
+        "email": "laura@garcia.com",
+        "genero": "F",
+        "promedio": 7,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Hernandez",
+        "email": "carlos@hernandez.com",
+        "genero": "M",
+        "promedio": 9,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Sanchez",
+        "email": "elena@sanchez.com",
+        "genero": "F",
+        "promedio": 6,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Mendoza",
+        "email": "ricardo@mendoza.com",
+        "genero": "M",
+        "promedio": 7,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Patricia",
+        "apellido": "Vargas",
+        "email": "patricia@vargas.com",
+        "genero": "F",
+        "promedio": 9,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "Jimenez",
+        "email": "jorge@jimenez.com",
+        "genero": "M",
+        "promedio": 8,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Sofia",
+        "apellido": "Gonzalez",
+        "email": "sofia@gonzalez.com",
+        "genero": "F",
+        "promedio": 7,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Miguel",
+        "apellido": "Torres",
+        "email": "miguel@torres.com",
+        "genero": "M",
+        "promedio": 9,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Castro",
+        "email": "isabel@castro.com",
+        "genero": "F",
+        "promedio": 8,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Andrés",
+        "apellido": "Márquez",
+        "email": "andres@marquez.com",
+        "genero": "M",
+        "promedio": 7,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Reyes",
+        "email": "valeria@reyes.com",
+        "genero": "F",
+        "promedio": 9,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Daniel",
+        "apellido": "Cruz",
+        "email": "daniel@cruz.com",
+        "genero": "M",
+        "promedio": 8,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Gabriela",
+        "apellido": "Pérez",
+        "email": "gabriela@perez.com",
+        "genero": "F",
+        "promedio": 7,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Salazar",
+        "email": "fernando@salazar.com",
+        "genero": "M",
+        "promedio": 9,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Natalia",
+        "apellido": "Mora",
+        "email": "natalia@mora.com",
+        "genero": "F",
+        "promedio": 8,
+        "grupo": "Turno Tarde"
+    },
+    {
+        "nombre": "Héctor",
+        "apellido": "Pardo",
+        "email": "hector@pardo.com",
+        "genero": "M",
+        "promedio": 7,
+        "grupo": "Turno Mañana"
+    },
+    {
+        "nombre": "Claudia",
+        "apellido": "Torres",
+        "email": "claudia@torres.com",
+        "genero": "F",
+        "promedio": 9,
+        "grupo": "Turno Tarde"
+    }
+]
