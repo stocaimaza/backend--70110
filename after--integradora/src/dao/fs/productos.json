@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Arroz",
+    "description": "Marolio",
+    "price": 20,
+    "img": "sin imagen",
+    "code": "abc555",
+    "stock": 33
+  },
+  {
+    "id": 2,
+    "title": "Azúcar",
+    "description": "Ledesma",
+    "price": 18,
+    "img": "sin imagen",
+    "code": "abc556",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Aceite",
+    "description": "Soya, 1L",
+    "price": 80,
+    "img": "sin imagen",
+    "code": "abc557",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Harina",
+    "description": "000, 1kg",
+    "price": 22,
+    "img": "sin imagen",
+    "code": "abc558",
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "title": "Leche",
+    "description": "Súper, 1L",
+    "price": 60,
+    "img": "sin imagen",
+    "code": "abc559",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "title": "Pasta",
+    "description": "Mostacholi, 500g",
+    "price": 30,
+    "img": "sin imagen",
+    "code": "abc560",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Sal",
+    "description": "Refinada, 1kg",
+    "price": 12,
+    "img": "sin imagen",
+    "code": "abc561",
+    "stock": 60
+  },
+  {
+    "id": 8,
+    "title": "Tomate",
+    "description": "Enlatado, 400g",
+    "price": 45,
+    "img": "sin imagen",
+    "code": "abc562",
+    "stock": 35
+  }
+]
