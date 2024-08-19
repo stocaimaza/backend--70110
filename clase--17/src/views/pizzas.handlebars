@@ -1,0 +1,17 @@
+<h1>Listado de pizzas vendidas este fin de semana </h1>
+
+<ul>
+    {{#each pizzas}}
+        <li> {{this.nombre}} x {{this.cantidad}} </li>
+    {{/each}}
+</ul>
+
+{{#if hasPrevPage}}
+    <a href="/pizzas?page={{prevPage}}"> Anterior </a>
+{{/if}}
+
+{{#if hasNextPage}}
+    <a href="/pizzas?page={{nextPage}}"> Siguiente </a>
+{{/if}}
+
+<p> {{currentPage}} de {{totalPages}} </p>
